@@ -1,0 +1,41 @@
+#Instalacion de Flask
+pip install flask
+
+
+#Actualizacion de python
+python -m pip install --upgrade pip
+ 
+
+#Instalacion para manejar MySQL
+pip install mysqlclient #Tene cuidado con esta mejor usa pymysql
+pip install pymysql 
+pip install email-validator
+pip install Flask Flask-SQLAlchemy
+pip install Flask flask-mysqldb
+pip install bcrypt
+pip install Flask-WTF
+pip install cryptography
+
+
+
+#Versionado de Python
+python --version
+pip --version
+
+#Instalacion de newspaper3k y sus allegados
+pip install newspaper3k
+pip install lxml_html_clean
+pip install lxml[html_clean]
+pip install --upgrade newspaper3k
+pip install beautifulsoup4
+
+#PASSWORD
+G3n3r@!2024 
+
+
+
+
+
+
+
+violeta naranja verde negro y poco blanco
